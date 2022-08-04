@@ -3,14 +3,17 @@
         "scores":
         [
       {
+          "userId": 1,
         "name": "Juanes",
         "value": 20
       },
        {
+           "userId": 2,
         "name": "Fer",
         "value": 2
       },
        {
+           "userId": 3,
         "name": "Linna",
         "value": 14
       }
