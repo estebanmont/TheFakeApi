@@ -1,5 +1,7 @@
 {
-    "scores": [
+    "leaders": {
+        "scores":
+        [
       {
         "name": "Juanes",
         "Score": 20
@@ -14,4 +16,5 @@
       }
     ]
     
-  }
+    }
+ }
